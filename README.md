@@ -1,4 +1,4 @@
-# JSON Escape
+# json-escape
 
 Escapes JSON special characters: `&`, `<` and `>`.
 
